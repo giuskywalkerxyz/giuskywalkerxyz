@@ -71,9 +71,11 @@ HTB{w3lc0m3_t0_my_pr0f1l3}
 
 <div align="center">
 
-<a href="https://app.hackthebox.com"><img src="https://img.shields.io/badge/HackTheBox-0d1117?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" /></a>
+<a href="https://app.hackthebox.com/users/768648"><img src="https://img.shields.io/badge/HackTheBox-0d1117?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" /></a>
 <a href="https://tryhackme.com"><img src="https://img.shields.io/badge/TryHackMe-0d1117?style=for-the-badge&logo=tryhackme&logoColor=red" /></a>
 <a href="https://ctftime.org/"><img src="https://img.shields.io/badge/CTFtime-0d1117?style=for-the-badge&logo=hackaday&logoColor=white" /></a>
+
+<a href="https://app.hackthebox.com/users/768648"><img src="https://www.hackthebox.com/badge/image/768648" alt="HackTheBox rank badge" /></a>
 
 
 </div>
