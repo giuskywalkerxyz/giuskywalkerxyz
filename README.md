@@ -87,10 +87,6 @@ HTB{w3lc0m3_t0_my_pr0f1l3}
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=giuskywalkerxyz&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true" width="100%" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/giuskywalkerxyz/giuskywalkerxyz/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/giuskywalkerxyz/giuskywalkerxyz/output/github-contribution-grid-snake.svg" />
-</picture>
 
 </div>
 
