@@ -85,11 +85,9 @@ HTB{w3lc0m3_t0_my_pr0f1l3}
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=giuskywalkerxyz&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giuskywalkerxyz&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=giuskywalkerxyz&background=0d1117&border=0d1117&ring=00ff41&fire=00ff41&currStreakNum=00ff41&currStreakLabel=00ff41&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e&stroke=00ff41" alt="streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=giuskywalkerxyz&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true" width="100%" />
-
+<img src="https://ghchart.rshah.org/00ff41/giuskywalkerxyz" alt="contributions" width="100%" />
 
 </div>
 
