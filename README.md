@@ -41,15 +41,13 @@ Advisories and CVEs are listed on [giullianoamaral.com](https://giullianoamaral.
 
 ### Projects
 
-| | |
+| Project | What it does |
 |---|---|
 | [**busca-apreensao**](https://github.com/giuskywalkerxyz/busca-apreensao) | Looks up search-and-seizure cases across every Brazilian state court (DataJud / CNJ) |
 | [**htb-writeups-retired**](https://github.com/giuskywalkerxyz/htb-writeups-retired) | Writeups for retired HackTheBox machines |
 | [**jarvis-scan**](https://github.com/giuskywalkerxyz/jarvis-scan) · [**jarvis-dirb**](https://github.com/giuskywalkerxyz/jarvis-dirb) | Early Python tools: port scanner and directory brute-forcer |
 
 <div align="center">
-
-<img src="https://ghchart.rshah.org/c98f72/giuskywalkerxyz" alt="Contribution chart" width="100%">
 
 <sub>Only test what you are authorized to test.</sub>
 
