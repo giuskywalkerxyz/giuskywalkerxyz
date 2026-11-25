@@ -39,13 +39,6 @@ Advisories and CVEs are listed on [giullianoamaral.com](https://giullianoamaral.
 <a href="https://app.hackthebox.com/users/768648"><img src="https://www.hackthebox.com/badge/image/768648" alt="HackTheBox profile"></a>
 <a href="https://tryhackme.com/p/giuskywalker"><img src="https://tryhackme-badges.s3.amazonaws.com/giuskywalker.png" alt="TryHackMe profile"></a>
 
-### Projects
-
-| Project | What it does |
-|---|---|
-| [**htb-writeups-retired**](https://github.com/giuskywalkerxyz/htb-writeups-retired) | Writeups for retired HackTheBox machines |
-| [**jarvis-scan**](https://github.com/giuskywalkerxyz/jarvis-scan) · [**jarvis-dirb**](https://github.com/giuskywalkerxyz/jarvis-dirb) | Early Python tools: port scanner and directory brute-forcer |
-
 <div align="center">
 
 <sub>Only test what you are authorized to test.</sub>
