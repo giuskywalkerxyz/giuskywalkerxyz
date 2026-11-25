@@ -28,13 +28,13 @@ I find security flaws in open-source software and report them through coordinate
 
 Advisories and CVEs are listed on [giullianoamaral.com](https://giullianoamaral.com) once they are public.
 
-### Writing & video
+### Content Creation
 
 - **Writeups and research:** [giullianoamaral.com](https://giullianoamaral.com)
 - **YouTube:** machines and techniques, solved end to end — [@giullianoamaralsec](https://www.youtube.com/@giullianoamaralsec)
 - **Retired HackTheBox writeups:** [htb-writeups-retired](https://github.com/giuskywalkerxyz/htb-writeups-retired)
 
-### Practice
+### CTF
 
 <a href="https://app.hackthebox.com/users/768648"><img src="https://www.hackthebox.com/badge/image/768648" alt="HackTheBox profile"></a>
 <a href="https://tryhackme.com/p/giuskywalker"><img src="https://tryhackme-badges.s3.amazonaws.com/giuskywalker.png" alt="TryHackMe profile"></a>
